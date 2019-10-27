@@ -1,0 +1,489 @@
+Chris
+ObstacleCourse
+Locomotion: 0
+Errors: 0
+Time: 82.24215
+XRoom
+Locomotion: 0
+Submited Distance: 1
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 3
+Errors: 7
+Time: 253.056
+XRoom
+Locomotion: 3
+Submited Distance: 1
+Actual Distance: 1
+ObstacleCourse
+Locomotion: 1
+Errors: 5
+Time: 139.2838
+XRoom
+Locomotion: 1
+Submited Distance: 1
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 2
+Errors: 4
+Time: 60.13511
+XRoom
+Locomotion: 2
+Submited Distance: 1
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 4
+Errors: 17
+Time: 278.472
+XRoom
+Locomotion: 4
+Submited Distance: 2
+Actual Distance: 3
+
+Roger
+ObstacleCourse
+Locomotion: 3
+Errors: 11
+Time: 102.215
+XRoom
+Locomotion: 3
+Submited Distance: 7
+Actual Distance: 7
+ObstacleCourse
+Locomotion: 0
+Errors: 7
+Time: 50.63417
+XRoom
+Locomotion: 0
+Submited Distance: 5
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 1
+Errors: 8
+Time: 96.77193
+XRoom
+Locomotion: 1
+Submited Distance: 6
+Actual Distance: 5
+ObstacleCourse
+Locomotion: 2
+Errors: 4
+Time: 60.124
+XRoom
+Locomotion: 2
+Submited Distance: 6
+Actual Distance: 1
+ObstacleCourse
+Locomotion: 4
+Errors: 22
+Time: 276.8169
+XRoom
+Locomotion: 4
+Submited Distance: 7
+Actual Distance: 1
+
+Tommy
+ObstacleCourse
+Locomotion: 3
+Errors: 2
+Time: 149.3702
+XRoom
+Locomotion: 3
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 0
+Errors: 0
+Time: 55.97914
+XRoom
+Locomotion: 0
+Submited Distance: 1
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 4
+Errors: 3
+Time: 174.5196
+XRoom
+Locomotion: 4
+Submited Distance: 3
+Actual Distance: 6
+ObstacleCourse
+Locomotion: 1
+Errors: 5
+Time: 132.1633
+XRoom
+Locomotion: 1
+Submited Distance: 1
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 2
+Errors: 0
+Time: 71.41146
+XRoom
+Locomotion: 2
+Submited Distance: 3
+Actual Distance: 4
+
+Michael
+ObstacleCourse
+Locomotion: 3
+Errors: 11
+Time: 213.5434
+XRoom
+Locomotion: 3
+Submited Distance: 1
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 0
+Errors: 2
+Time: 98.50484
+XRoom
+Locomotion: 0
+Submited Distance: 0
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 1
+Errors: 11
+Time: 136.9955
+XRoom
+Locomotion: 1
+Submited Distance: 1
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 2
+Errors: 5
+Time: 75.86593
+XRoom
+Locomotion: 2
+Submited Distance: 0
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 4
+Errors: 5
+Time: 213.9544
+XRoom
+Locomotion: 4
+Submited Distance: 1
+Actual Distance: 5
+
+Austin
+ObstacleCourse
+Locomotion: 3
+Errors: 5
+Time: 186.9832
+XRoom
+Locomotion: 3
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 0
+Errors: 2
+Time: 54.86792
+XRoom
+Locomotion: 0
+Submited Distance: 2
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 1
+Errors: 7
+Time: 105.8364
+XRoom
+Locomotion: 1
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 2
+Errors: 1
+Time: 78.50973
+XRoom
+Locomotion: 2
+Submited Distance: 4
+Actual Distance: 7
+ObstacleCourse
+Locomotion: 4
+Errors: 6
+Time: 171.8203
+XRoom
+Locomotion: 4
+Submited Distance: 3
+Actual Distance: 6
+
+courtney
+ObstacleCourse
+Locomotion: 3
+Errors: 8
+Time: 129.3307
+XRoom
+Locomotion: 3
+Submited Distance: 5
+Actual Distance: 5
+ObstacleCourse
+Locomotion: 4
+Errors: 10
+Time: 283.4708
+XRoom
+Locomotion: 4
+Submited Distance: 4
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 2
+Errors: 6
+Time: 75.97701
+XRoom
+Locomotion: 2
+Submited Distance: 5
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 1
+Errors: 6
+Time: 116.2338
+XRoom
+Locomotion: 1
+Submited Distance: 8
+Actual Distance: 6
+ObstacleCourse
+Locomotion: 0
+Errors: 0
+Time: 66.76815
+XRoom
+Locomotion: 0
+Submited Distance: 6
+Actual Distance: 5
+
+Dylan?Devin?Duncan?
+ObstacleCourse
+Locomotion: 3
+Errors: 4
+Time: 119.7441
+XRoom
+Locomotion: 3
+Submited Distance: 4
+Actual Distance: 5
+ObstacleCourse
+Locomotion: 1
+Errors: 4
+Time: 120.4995
+XRoom
+Locomotion: 1
+Submited Distance: 5
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 2
+Errors: 0
+Time: 58.96833
+XRoom
+Locomotion: 2
+Submited Distance: 6
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 0
+Errors: 3
+Time: 53.3011
+XRoom
+Locomotion: 0
+Submited Distance: 4
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 4
+Errors: 8
+Time: 122.2546
+XRoom
+Locomotion: 4
+Submited Distance: 6
+Actual Distance: 3
+
+Avery
+ObstacleCourse
+Locomotion: 3
+Errors: 7
+Time: 346.8664
+XRoom
+Locomotion: 3
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 0
+Errors: 4
+Time: 106.0808
+XRoom
+Locomotion: 0
+Submited Distance: 2
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 4
+Errors: 11
+Time: 257.7437
+XRoom
+Locomotion: 4
+Submited Distance: 6
+Actual Distance: 6
+ObstacleCourse
+Locomotion: 1
+Errors: 10
+Time: 112.5903
+XRoom
+Locomotion: 1
+Submited Distance: 4
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 2
+Errors: 3
+Time: 74.54403
+XRoom
+Locomotion: 2
+Submited Distance: 4
+Actual Distance: 4
+
+Luke
+ObstacleCourse
+Locomotion: 3
+Errors: 5
+Time: 141.7832
+XRoom
+Locomotion: 3
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 4
+Errors: 8
+Time: 129.1196
+XRoom
+Locomotion: 4
+Submited Distance: 3
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 2
+Errors: 4
+Time: 61.74638
+XRoom
+Locomotion: 2
+Submited Distance: 4
+Actual Distance: 5
+ObstacleCourse
+Locomotion: 1
+Errors: 10
+Time: 101.082
+XRoom
+Locomotion: 1
+Submited Distance: 3
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 0
+Errors: 2
+Time: 43.00008
+XRoom
+Locomotion: 0
+Submited Distance: 5
+Actual Distance: 1
+
+Harry
+ObstacleCourse
+Locomotion: 3
+Errors: 6
+Time: 134.4183
+XRoom
+Locomotion: 3
+Submited Distance: 2
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 1
+Errors: 9
+Time: 128.8086
+XRoom
+Locomotion: 1
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 0
+Errors: 9
+Time: 47.25605
+XRoom
+Locomotion: 0
+Submited Distance: 2
+Actual Distance: 3
+ObstacleCourse
+Locomotion: 2
+Errors: 7
+Time: 61.92418
+XRoom
+Locomotion: 2
+Submited Distance: 2
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 4
+Errors: 10
+Time: 153.1582
+XRoom
+Locomotion: 4
+Submited Distance: 2
+Actual Distance: 4
+
+Albert
+ObstacleCourse
+Locomotion: 3
+Errors: 8
+Time: 239.7148
+XRoom
+Locomotion: 3
+Submited Distance: 5
+Actual Distance: 5
+ObstacleCourse
+Locomotion: 0
+Errors: 4
+Time: 158.7568
+XRoom
+Locomotion: 0
+Submited Distance: 1
+Actual Distance: 4
+ObstacleCourse
+Locomotion: 1
+Errors: 7
+Time: 151.0476
+XRoom
+Locomotion: 1
+Submited Distance: 2
+Actual Distance: 5
+ObstacleCourse
+Locomotion: 4
+Errors: 15
+Time: 256.8773
+XRoom
+Locomotion: 4
+Submited Distance: 3
+Actual Distance: 7
+ObstacleCourse
+Locomotion: 2
+Errors: 8
+Time: 79.08736
+XRoom
+Locomotion: 2
+Submited Distance: 5
+Actual Distance: 5
+XRoom
+Locomotion: 0
+Submited Distance: 4
+Actual Distance: 5
+XRoom
+Locomotion: 0
+Submited Distance: 7
+Actual Distance: 2
+XRoom
+Locomotion: 4
+Submited Distance: 6
+Actual Distance: 0
+XRoom
+Locomotion: 0
+Submited Distance: 7
+Actual Distance: 2
+XRoom
+Locomotion: 0
+Submited Distance: 5
+Actual Distance: 2
+ObstacleCourse
+Locomotion: 3
+Errors: 4
+Time: 154.7022
+ObstacleCourse
+Locomotion: 0
+Errors: 4
+Time: 339.7682
