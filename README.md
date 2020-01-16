@@ -1,6 +1,10 @@
 # HTC Vive Research Project
 
-The final report for this project can be found [here](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Reports/4th%20Report%20-%20Accuracy%20and%20Precision%20in%20Virtual%20Reality.pdf) along with the other reports. A [video](https://www.youtube.com/watch?v=lTSCO8_pkT0) of the demo can be found at the bottom of this page.
+The final report for this project can be found [here](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Reports/4th%20Report%20-%20Accuracy%20and%20Precision%20in%20Virtual%20Reality.pdf) along with the other reports.
+
+We also made a [presentation](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Presentation%20-%20Accuracy%20and%20Precision%20in%20VR.pdf).
+
+A [video](https://www.youtube.com/watch?v=lTSCO8_pkT0) of the demo can be found at the bottom of this page.
 
 This was a research project done for my User Interface Engineering Class. My group and I decided on determining if it was possible to train someone in a virtual enviornment such as throwing a ball to a target and extrapolate the results of that into a real life space.
 
