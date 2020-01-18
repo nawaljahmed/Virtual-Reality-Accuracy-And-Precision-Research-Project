@@ -6,9 +6,11 @@ We also made a [presentation](https://github.com/NawalJAhmed/HTC-Vive-Research-P
 
 A [video](https://www.youtube.com/watch?v=lTSCO8_pkT0) of the demo can be found at the bottom of this page.
 
+[Matlab Data](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Assets/MATLAB%20file%20for%20plots.zip) and [Excel Data](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Assets/UI_Data_Table_Graphs.xlsx) for the throws.
+
 This was a research project done for my User Interface Engineering Class. My group and I decided on determining if it was possible to train someone in a virtual enviornment such as throwing a ball to a target and extrapolate the results of that into a real life space.
 
-The testing method was done by all group members in which we all took turns throwing a ball onto a target at different disatances a select number of time and recorded those results on a map to determine accuracy and precision. We made a scoring system to register how well each participant did.
+The testing method was done by all group members in which we all took turns throwing a ball onto a target at different disatances a select number of time and recorded those results on a map to determine accuracy and precision. We made a scoring system to register how well each participant did. The data was inputed into MatLab and Excel.
 
 We then built the VR space in Unity using C#. The environment was made to simulate the area in which the baseballs were thrown in real life. Due to the enclosed environment in which the real life testing was done, physics factors such as wind speed were acceptable to be ignored. We wanted to test at a base level to determine if there was a correlation between training in a normal room in reality versus virtual reality. If there was a correlation, then factors such as wind speed would be added on and tested to see if there still was a correlation.
 
