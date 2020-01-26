@@ -1,4 +1,4 @@
-# HTC Vive Research Project
+# HTC Vive Accuracy & Precision Research Project
 
 The final report for this project can be found [here](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Reports/4th%20Report%20-%20Accuracy%20and%20Precision%20in%20Virtual%20Reality.pdf) along with the other reports.
 
