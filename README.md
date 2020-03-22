@@ -1,4 +1,4 @@
-# HTC Vive Accuracy & Precision Research Project
+# Virtual Reality Accuracy & Precision Research Project
 
 The final report for this project can be found [here](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Reports/4th%20Report%20-%20Accuracy%20and%20Precision%20in%20Virtual%20Reality.pdf) along with the other reports.
 
@@ -9,6 +9,8 @@ A [video](https://www.youtube.com/watch?v=lTSCO8_pkT0) of the demo can be found 
 [Matlab Data](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Assets/MATLAB%20file%20for%20plots.zip) and [Excel Data](https://github.com/NawalJAhmed/HTC-Vive-Research-Project/blob/master/Assets/UI_Data_Table_Graphs.xlsx) for the throws.
 
 This was a research project done for my User Interface Engineering Class. My group and I decided on determining if it was possible to train someone in a virtual enviornment such as throwing a ball to a target and extrapolate the results of that into a real life space.
+
+The device we used was the HTC Vive.
 
 The testing method was done by all group members in which we all took turns throwing a ball onto a target at different disatances a select number of time and recorded those results on a map to determine accuracy and precision. We made a scoring system to register how well each participant did. The data was inputed into MatLab and Excel.
 
