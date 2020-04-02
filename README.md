@@ -9,7 +9,7 @@
 
 ## Synopsis
 
-This was a research project done for my User Interface Engineering Class. My group and I decided on determining if it was possible to train someone in a virtual enviornment such as throwing a ball to a target and extrapolate the results of that into a real life space.
+This was a research project done for my [User Interface Engineering Class](https://github.com/NawalJAhmed/User-Interface-Engineering-Class). My group and I decided on determining if it was possible to train someone in a virtual enviornment such as throwing a ball to a target and extrapolate the results of that into a real life space.
 
 The device we used was the HTC Vive.
 
